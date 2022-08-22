@@ -1,9 +1,16 @@
-# HTML-CSS-landing-page-demo
+# Run Buddy Inc.
 
-## Description
-This site utilizes responsive HTML and CSS and is a demo of a sample business' landing page.
+## Purpose
+A website that offers fitness training services. 
 
-[Click here to visit the demo site!](https://jakelauterstein.github.io/HTML-CSS-landing-page-demo/)
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Page built by Jake Lauterstein
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
