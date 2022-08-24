@@ -26,7 +26,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  z-index: 9999;
+  z-index: 9998;
   padding: 20px 35px;
   /* background-color: var(--tertiary-color)
 ; */
@@ -131,6 +131,7 @@ section {
   position: relative;
   right: 50%;
   width: 100vw;
+  z-index: 9999;
 }
 
 .hero-cta {
